@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "112173527639",
+    "firebase_url": "https://videorecordertestassignment-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "videorecordertestassignment",
+    "storage_bucket": "videorecordertestassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112173527639:android:b29c021d7ec73828736912",
+        "android_client_info": {
+          "package_name": "com.example.video"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFj2A4foTwpkJ_BDFq5qGTWsh5JDztSH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
